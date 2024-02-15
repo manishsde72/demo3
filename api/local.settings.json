@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "MyAccount_COSMOSDB": "AccountEndpoint=https://techcrounsdemodatabase.documents.azure.com:443/;AccountKey=puseOfvFUVZr2LKNbPREYd0yIkOOVtaNF3u4jfxWpkmUNyb3lLFdryKlJfDt041Fzy3cEKo6eceaACDb9PVolQ==;",
+      "ACS_ConnectionString": "endpoint=https://serefinsms.canada.communication.azure.com/;accesskey=TWttJAm+eelKS9tivC3BHRDs4Fz0mkhnLktg+3vScXMEqAhM5o5j4yuhNEhK/+Sg69gs0YDp0Kn2hcukYMzZRA==",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+    }
+  }
